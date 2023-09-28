@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477896827356",
+    "project_id": "imposing-carver-264503",
+    "storage_bucket": "imposing-carver-264503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477896827356:android:a8b578fdd3f0b0bf0baf19",
+        "android_client_info": {
+          "package_name": "com.app.isilahtitiktitik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477896827356-ivd9qg5d6d1igeq3ae6av4jsge1u9aej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.isilahtitiktitik",
+            "certificate_hash": "776b0235e66746492bb59d000656de74671b2ce1"
+          }
+        },
+        {
+          "client_id": "477896827356-lgmbcf43sqh7t7vrsu231veqofqg9vvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQrIo1VacBOcz9n1dhr0Y34jcqw_7R0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477896827356-lgmbcf43sqh7t7vrsu231veqofqg9vvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
